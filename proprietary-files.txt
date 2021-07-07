@@ -59,6 +59,10 @@ vendor/lib64/libbauthtzcommon.so
 # Media
 vendor/firmware/mfc_fw.bin
 
+# NFC
+vendor/etc/nfc/sec_s3nrn82_rfreg.bin
+vendor/firmware/nfc/sec_s3nrn82_firmware.bin
+
 # Sensors
 vendor/lib/hw/sensors.universal7904.so
 vendor/lib64/hw/sensors.universal7904.so
