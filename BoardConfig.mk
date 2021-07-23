@@ -3,6 +3,9 @@ DEVICE_PATH := device/samsung/a40
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := a40,a40dd
 
+# Keymaster
+TARGET_KEYMASTER_VARIANT := samsung
+
 # Kernel
 TARGET_KERNEL_CONFIG := a40_defconfig
 
