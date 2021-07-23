@@ -18,7 +18,7 @@
 set -e
 
 # Required!
-export DEVICE=m20lte
+export DEVICE=a40
 export DEVICE_COMMON=universal7904-common
 export VENDOR=samsung
 
